@@ -44,10 +44,11 @@ This repo is for the Capstone project.
 
 ## Basic Build Instructions
 
-1. Clone this repo.
-2. Make a build directory in the top level directory: `mkdir build && cd build`
-3. Compile: `cmake .. && make`
-4. Run it: `./SnakeGame`.
+1. Install all above dependencies.
+2. Clone this repo.
+3. Make a build directory in the top level directory: `mkdir build && cd build`
+4. Compile: `cmake .. && make`
+5. Run it: `./SnakeGame`.
 
 
 ## Code Structure
